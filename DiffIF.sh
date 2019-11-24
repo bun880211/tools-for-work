@@ -1,6 +1,6 @@
 #!/bin/sh
 
-##list.txtに記載されている値が無い行を出力する####
+##list.txtに記載されている値が無い行を出力する#######
 
 #IF file関連の変数
 ifFileDir=/home/Campanella/test/ifFile/
